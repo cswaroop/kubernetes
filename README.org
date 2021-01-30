@@ -1,0 +1,6 @@
+#+DESCRIPTION: Kubernetes Notes
+
+* Kubernetes Developer
+  https://www.udemy.com/course/certified-kubernetes-application-developer/learn/
+* Kubernetes Administrator
+  https://www.udemy.com/course/certified-kubernetes-administrator/learn/lecture/
